@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoshor Paul</h1>
-<h3 align="center">My current goal is to seek knowledge and add more skills, meanwhile maintain a position that offers challenges that requires utilizing my coding, time management and problem-solving skills. I'm currently diving into the realm of Data Science, due to my interest in Deep Learning. Currently on a healthy streak of solving LeetCode questions daily.</h3>
+<h3 align="center">Currently looking to learn more and dive deeper into the domain of Data Science.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
