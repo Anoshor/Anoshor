@@ -17,6 +17,6 @@
 <h4 align="left">Get in Touch : </h3>
 <p align="left">I'm always open to collaboration and new opportunities. Feel free to reach out to me through: 
   <ul>
-    <li><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40"/> anoshorpaul@gmail.com</li>
+    <li><i class="fa-solid fa-envelope"></i> anoshorpaul@gmail.com</li>
   </ul>
 </p>
