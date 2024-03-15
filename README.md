@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anoshor Paul</h1>
-<h3 align="center">Currently looking to learn more and dive deeper into the domain of Data Science.</h3>
+<h1 align="left">Hi 👋, I'm Anoshor Paul</h1>
+<h3 align="justify">Currently looking to learn more and dive deeper into the domain of Data Science.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
