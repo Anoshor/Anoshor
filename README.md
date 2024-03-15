@@ -18,8 +18,8 @@
 <p align="left">I'm always open to collaboration and new opportunities. Feel free to reach out to me through: 
   <ul>
     <li>
-      <img alt="Gmail icon (2020)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="40" height="40">
-      Email : anoshorpaul@gmail.com
+      <img alt="Gmail icon (2020)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="20" height="10">
+      <a href="mailto:anoshorpaul@gmail.com">anoshorpaul@gmail.com</a>
     </li>
   </ul>
 </p>
